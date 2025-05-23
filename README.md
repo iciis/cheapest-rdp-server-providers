@@ -139,16 +139,16 @@ In essence, a "good" RDP server balances cost with these crucial factors to prov
   <img src="https://drive.google.com/uc?export=view&id=1FwNFMlS_ZODrcgT-QYk0TjWjEsTYTSpO"  alt="LogMein Pricing">
 </a>
 
-- **Remote Access Plan:**
+**Remote Access Plan:**
     - Price: $20 per month (billed annually). This is a discounted price, with an option to save an extra 15% today.
     - Features: Secure unattended access for managed Windows, Mac, and Android devices, Terminal Access, Background File Manager, Screen Blanking, Keyboard & Mouse lock, and more.
-- **Remote Support Plus Plan:**
+**Remote Support Plus Plan:**
     - Price: $38 per month (billed annually). This is a discounted price from $55, with an option to save an extra 15% today.
     - Features: Includes all Remote Access features plus Unlimited Remote Support, Incident Management, AI-powered Self-Service, Session Collaboration & Transfer, Multi-session handling, and more.
-- **Standard Endpoint Management Plan:**
+**Standard Endpoint Management Plan:**
     - Price: $49 per month (billed annually). This is a discounted price from $70, with an option to save an extra 15% today.
     - Features: Includes all Remote Support Plus features plus Device Monitoring & Alerts, AV Management, Asset Management, Remote Execution, AI Assistant, and more.
-- **Premium Endpoint Management Plan:**
+**Premium Endpoint Management Plan:**
     - Price: Contact Sales. Starting at 25 devices & 1 agent.
     - Features: Includes all Standard features plus Patch Management, Self-healing Alerts, Recurring Remote Execution, AI-powered Knowledge Base, Problem Management, and more.
 
@@ -158,13 +158,13 @@ In essence, a "good" RDP server balances cost with these crucial factors to prov
   <img src="https://drive.google.com/uc?export=view&id=1Z99g2U8qhYtYR61GU8i0ZgJ_tPM9w2xi"  alt="HomeRDP Pricing">
 </a>
 
-- **NVME RDP:**
+**NVME RDP:**
     - Price: $19.99 per month (Flat 50% OFF indicated, original price not specified).
     - Features: 50 GB NVME Disk, Unlimited Bandwidth, 32/64GB DDR4 RAM, E-2286G CPU.
-- **Windows VPS:**
+**Windows VPS:**
     - Price: $4.99 per month (Flat 50% OFF indicated, original price not specified).
     - Features: 25 GB SSD Storage, Unlimited Bandwidth, 2GB DDR4 RAM, 1 Dedicated IP.
-- **Dedicated RDP:**
+**Dedicated RDP:**
     - Price: $119.99 per month (Flat 50% OFF indicated, original price not specified).
     - Features: 1x 240GB SSD + 3x4TB SATA III Disk, Unlimited Bandwidth, 32GB DDR4 RAM, Intel Xeon E-2286G.
 
@@ -174,13 +174,13 @@ In essence, a "good" RDP server balances cost with these crucial factors to prov
   <img src="https://drive.google.com/uc?export=view&id=1wXfyEp2lvf0P-l-pRTgaqgZsBjtBSZ_V"  alt="Digi">
 </a>
 
-- **India Ryzen 7950X VPS #4 (Hot):**
+**India Ryzen 7950X VPS #4 (Hot):**
     - Price: ₹1283.14 per month (Discounted from ₹1711.14 per month).
     - Features: Single user, AMD Ryzen 9 7950X, 3 vCore, Instant Setup or Up to 12hrs, Linux Operating System.
-- **India Ryzen 7950X VPS #5 (New):**
+**India Ryzen 7950X VPS #5 (New):**
     - Price: ₹1711.14 per month (Discounted from ₹2310.34 per month).
     - Features: Single user, AMD Ryzen 9 7950X, 4 vCore, Instant Setup or Up to 12hrs, Linux Operating System.
-- **India Ryzen 7950X VPS #6 (New):**
+**India Ryzen 7950X VPS #6 (New):**
     - Price: ₹2567.14 per month (Discounted from ₹2838.74 per month).
     - Features: Single user, AMD Ryzen 9 7950X, 4 vCore, Instant Setup or Up to 12hrs, Linux Operating System.
 
@@ -190,13 +190,13 @@ In essence, a "good" RDP server balances cost with these crucial factors to prov
   <img src="https://drive.google.com/uc?export=view&id=1hvKml-uk-2UW07nZUxGfFl75Q-y7wKfb"  alt="RDP Windows Pricing">
 </a>
 
-- **SSD RDP:**
+**SSD RDP:**
     - Price: $5.99 per month.
     - Features: Intel Core i7-6700, 64 GB RAM, 20GB SSD or +, 1Gbps Port, Windows server 2012 R2, No Admin, Instant Delivery.
-- **ADMIN RDP (Most popular plan, Admin Access):**
+**ADMIN RDP (Most popular plan, Admin Access):**
     - Price: $14.99 per month.
     - Features: 2 vCPU, 4 GB RAM, 30 GB Nvme SSD, 10Gbps Port, Windows Server 2022, Full Admin rights, 2 Hours setup time.
-- **STREAMING RDP:**
+**STREAMING RDP:**
     - Price: $20.99 per month.
     - Features: Intel Core i7-4770, 16-32 GB RAM, 300GB HDD, 1Gbps Port, Windows 10, No Admin, 2 Hours setup time.
 
@@ -206,22 +206,22 @@ In essence, a "good" RDP server balances cost with these crucial factors to prov
   <img src="https://drive.google.com/uc?export=view&id=11vhdKquRDoUszBp2zp6CUIDreObNiGKR"  alt="Buycheaprdp Pricing">
 </a>
 
-- **Cheap RDP (No Admin Access):**
+**Cheap RDP (No Admin Access):**
     - Price: Starting at $3.99.
     - Description: Shared RDP plan in USA, France, and Netherlands.
-- **USA ADMIN RDP (Admin Access):**
+**USA ADMIN RDP (Admin Access):**
     - Price: Starting at $9.99.
     - Description: Private USA RDP with full Admin access in 12 USA locations.
-- **Netherlands ADMIN RDP (Admin Access):**
+**Netherlands ADMIN RDP (Admin Access):**
     - Price: Starting at $9.99.
     - Description: Private Netherlands RDP with unmetered bandwidth.
-- **UK ADMIN RDP (Admin Access):**
+**UK ADMIN RDP (Admin Access):**
     - Price: Starting at $9.99.
     - Description: UK RDP with full admin access.
-- **Encoding RDP (No Admin Access):**
+**Encoding RDP (No Admin Access):**
     - Price: Starting at $24.
     - Description: Dual CPU Encoding RDP with 2TB storage.
-- **Residential RDP:**
+**Residential RDP:**
     - Price: Starting at $20.
     - Description: Private Dating RDP with Residential IP.
 
