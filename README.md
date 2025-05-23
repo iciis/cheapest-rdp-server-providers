@@ -154,7 +154,9 @@ In essence, a "good" RDP server balances cost with these crucial factors to prov
 
 **HomeRDP** 
 
-
+<a href="https://afftrend.com/homerdp">
+  <img src="https://drive.google.com/uc?export=view&id=11vhdKquRDoUszBp2zp6CUIDreObNiGKR"  alt="Homerdp Pricing">
+</a>
 
 - **NVME RDP:**
     - Price: $19.99 per month (Flat 50% OFF indicated, original price not specified).
@@ -200,8 +202,8 @@ In essence, a "good" RDP server balances cost with these crucial factors to prov
 
 **BuycheapRDP**
 
-<a href="https://afftrend.com/buycheaprdp">
-  <img src="https://drive.google.com/uc?export=view&id=1wXfyEp2lvf0P-l-pRTgaqgZsBjtBSZ_V"  alt="BuyCheapRDP Pricing">
+<a href="https://afftrend.com/vuycheapRDP">
+  <img src="https://drive.google.com/uc?export=view&id=1Z99g2U8qhYtYR61GU8i0ZgJ_tPM9w2xi"  alt="Buy Cheap Ready Pricing">
 </a>
 
 - **Cheap RDP (No Admin Access):**
